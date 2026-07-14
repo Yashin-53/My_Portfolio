@@ -56,9 +56,9 @@ import webverLogo from './assets/work_logo/web_dig.png';
 import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
-import Skillbridge from './assets/work_logo/skillbridge.png';
-import Truestay from './assets/work_logo/truestay.png';
-import Meetsync from './assets/work_logo/meetsync.png';
+import Skillbridge from './assets/work_logo/Skillbridge.png';
+import Truestay from './assets/work_logo/Truestay.png';
+import Meetsync from './assets/work_logo/Meetsync.png';
 
 
 export const SkillsInfo = [
