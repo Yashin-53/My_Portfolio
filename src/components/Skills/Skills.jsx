@@ -35,7 +35,7 @@ const Skills = () => (
             perspective={1000}
             scale={1.05}
             transitionSpeed={1000}
-            gyroscope={true}
+            gyroscope={false}
           >
             {/* Always 2 chips per row */}
             <div className="grid grid-cols-2 gap-4 w-full">
