@@ -185,7 +185,7 @@ export const SkillsInfo = [
       school: "Chhatrapati Shahu Ji Maharaj University, Kanpur",
       website: "https://csjmu.ac.in",
       date: "2023 - Present",
-      grade: "8.12 CGPA",
+      grade: "8.12 CPI",
       desc: "Currently pursuing a B.Tech in Information Technology with a strong foundation in Data Structures & Algorithms, OOP, DBMS, Computer Networks, Operating Systems, and Compiler Design. Passionate about full-stack development and building scalable MERN applications.",
       degree: "Bachelor of Technology (B.Tech) - Information Technology",
     },
